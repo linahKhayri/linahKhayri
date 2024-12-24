@@ -17,7 +17,7 @@ while studying **Electrical Engineering** and **Business Administration (BBA)**.
 - 📚 Exploring **Data Science** and **Computer Science**
 - excited to learn and grow with **MIT emerging talent!**
 - 🐱 Lover of **cats**, **space**, and everything in between.
-- 🤝 Actively involved in **volunteering** with ***IEE***
+- 🤝 Actively involved in **volunteering** with ***IEEE***
 
 ---
 
@@ -58,8 +58,8 @@ while studying **Electrical Engineering** and **Business Administration (BBA)**.
 
 ### 📬 Get in Touch
 
-- **Email:** <linayasirkhairy@gmail.com>
-- **LinkedIn:** [Linah's LinkedIn](https://www.linkedin.com/in/linah-khayri-474476339)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:linayasirkhairy@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/linah-khayri-474476339)
 
 Feel free to explore my profile,
 and don’t hesitate to reach out if you’d like to collaborate
@@ -68,5 +68,4 @@ or chat about space, tech, cats or anything! 😄
 ---
 
 > “The best way to predict the future is to create it.” — **Abraham Lincoln**
->
 >

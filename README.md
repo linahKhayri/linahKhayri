@@ -1,71 +1,45 @@
 
-# 🌌 Welcome to My GitHub! 🌌
+<div style="text-align: center;">
+  <img src="super_lina.gif" alt="Space" />
+</div>
 
-![Space](https://i.pinimg.com/originals/9e/2e/3b/9e2e3b57992c4390f6f963f838b5b896.gif)
+![Space](https://i.pinimg.com/originals/45/68/ff/4568ff50e791b0dd37c7ef839c244163.gif)
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=%F0%9F%91%8B+Hi+there!+I'm+Linah!)](https://git.io/typing-svg)
+---
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=23&pause=1000&color=C33232&width=435&lines=About+me)](https://git.io/typing-svg)
 
-I’m a learner with a passion for space, cats, and all things tech!  
-I’m diving now into **Computer Science** and **Data Science**,  
-while studying **Electrical Engineering** and **Business Administration (BBA)**.
+- I’m interested in building systems that help us
+understand the world a little better.
+
+- electrical engineering × business administration x data science  
+
+---
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=23&pause=1000&color=C33232&width=435&lines=Tools)](https://git.io/typing-svg)
+
+<p>
+  <img src="https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2FC%2B%2B-000000?style=flat&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML%2FCSS-000000?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-000000?style=flat&logo=arduino&logoColor=white" />
+</p>
 
 ---
 
-### 🚀 My Journey
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=23&pause=1000&color=C33232&width=435&lines=Fun+Fact)](https://git.io/typing-svg)
 
-- 💡 **Electrical Engineering** student by day, tech enthusiast by night.
-- 📚 Exploring **Data Science** and **Computer Science**
-- excited to learn and grow with **MIT emerging talent!**
-- 🐱 Lover of **cats**, **space**, and everything in between.
-- 🤝 Actively involved in **volunteering** with ***IEEE***
+As a kid, I was terrified of the Super Mario levels (Lakitu) where the sky throws
+enemies at you (still do!)
 
 ---
 
-### 📚 What I’m Learning Right Now
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=23&pause=1000&color=C33232&width=435&lines=Connect)](https://git.io/typing-svg)
 
-- 🌐 **Programming Languages**: Python
-- 🧠 Exploring **AI**, **Deep Learning**, **Arduino**, and **more about Git and GitHub**
-
----
-
-### 🛠️🎨 My Skills
-
-| **Skill Category**         | **Skills**                                      |
-|----------------------------|------------------------------------------------|
-| **Programming Languages**  | C/C++                                    |
-| **Graphic Designing**      | Adobe Photoshop, Illustrator                   |
-| **Event Planning**         | Event Organization, Project Management         |
-| **Other Tools**            | Word, PowerPoint, Excel                        |
-| **Soft Skills**            | Problem-solving, Adaptability                  |
-
----
-
-### 🛠️ My **Future** Skills
-
-- **Data Science**: Data Analysis, Machine Learning
-- **Web**: HTML, CSS, React
-- **Programming**: Python
-- **Arduino**
-
----
-
-### 🐾 Fun Facts About Me
-
-- I love **cats** (but I don't own one! 🐱).
-- My favorite movie is **Interstellar** 🎥.
-
----
-
-### 📬 Get in Touch
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:linayasirkhairy@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/linah-khayri-474476339)
-
-Feel free to explore my profile,
-and don’t hesitate to reach out if you’d like to collaborate
-or chat about space, tech, cats or anything! 😄
-
----
-
-> “The best way to predict the future is to create it.” — **Abraham Lincoln**
->
+<p>
+  <a href="mailto:linayasirkhairy@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-000000?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/linah-khayri-474476339">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+</p>

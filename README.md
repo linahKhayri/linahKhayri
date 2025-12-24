@@ -1,7 +1,4 @@
-
-<div style="text-align: center;">
-  <img src="super_lina.gif" alt="Space" />
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=23&pause=1000&color=C33232&width=435&lines=Super+Lina)](https://git.io/typing-svg)
 
 ![Space](https://i.pinimg.com/originals/45/68/ff/4568ff50e791b0dd37c7ef839c244163.gif)
 

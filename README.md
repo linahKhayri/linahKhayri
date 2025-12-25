@@ -1,4 +1,6 @@
-![superme](pixel_text.png)
+<p align="center">
+  <img src="super_me.png" alt="superme">
+</p>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/45/68/ff/4568ff50e791b0dd37c7ef839c244163.gif" alt="Space">
@@ -10,7 +12,8 @@
 - I’m interested in building systems that help us
 understand the world a little better.
 
-- electrical engineering × business administration x data science  
+- Electrical Engineering × Business Administration × Data Science
+Curiosity is the common denominator.
 
 ---
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=23&pause=1000&color=C33232&width=435&lines=Tools)](https://git.io/typing-svg)
@@ -27,8 +30,8 @@ understand the world a little better.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=23&pause=1000&color=C33232&width=435&lines=Fun+Fact)](https://git.io/typing-svg)
 
-As a kid, I was terrified of the Super Mario levels (Lakitu) where the sky throws
-enemies at you (still do!)
+as a kid, I was scared of Lakitu in Super Mario, the cloud enemy that
+drops Spiny eggs from the sky. (still do!)
 
 ---
 

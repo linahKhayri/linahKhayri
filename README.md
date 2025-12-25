@@ -1,4 +1,4 @@
-![superme](superme.png)
+![superme](pixel_text.png)
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/45/68/ff/4568ff50e791b0dd37c7ef839c244163.gif" alt="Space">

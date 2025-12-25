@@ -12,7 +12,7 @@
 - I’m interested in building systems that help us
 understand the world a little better.
 
-- Electrical Engineering × Business Administration × Data Science
+- Electrical Engineering × Business Administration × Data Science  
 Curiosity is the common denominator.
 
 ---

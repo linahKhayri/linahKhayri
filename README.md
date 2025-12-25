@@ -36,7 +36,7 @@ drops Spiny eggs from the sky. (still do!)
 ---
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=23&pause=1000&color=C33232&width=435&lines=Connect)](https://git.io/typing-svg)
-
+> Open to collaborations!  
 <p>
   <a href="mailto:linayasirkhairy@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-000000?style=flat&logo=gmail&logoColor=white" />
